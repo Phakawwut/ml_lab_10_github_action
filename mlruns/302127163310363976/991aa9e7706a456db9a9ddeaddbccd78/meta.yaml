@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/286-9/mlruns/302127163310363976/991aa9e7706a456db9a9ddeaddbccd78/artifacts
+end_time: 1757907452186
+entry_point_name: ''
+experiment_id: '302127163310363976'
+lifecycle_stage: active
+run_id: 991aa9e7706a456db9a9ddeaddbccd78
+run_name: zealous-croc-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907452137
+status: 3
+tags: []
+user_id: computer

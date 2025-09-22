@@ -1,0 +1,2 @@
+model_name: wine-classifier-prod
+model_version: '2'

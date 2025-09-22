@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/286-9/mlruns/977135358262737097/db5e857df6d74fc291cee26216c65804/artifacts
+end_time: 1757910366406
+entry_point_name: ''
+experiment_id: '977135358262737097'
+lifecycle_stage: active
+run_id: db5e857df6d74fc291cee26216c65804
+run_name: colorful-ant-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757910366361
+status: 3
+tags: []
+user_id: computer

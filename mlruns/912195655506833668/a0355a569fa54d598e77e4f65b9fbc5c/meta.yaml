@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/286-9/mlruns/912195655506833668/a0355a569fa54d598e77e4f65b9fbc5c/artifacts
+end_time: 1757909773194
+entry_point_name: ''
+experiment_id: '912195655506833668'
+lifecycle_stage: active
+run_id: a0355a569fa54d598e77e4f65b9fbc5c
+run_name: funny-sponge-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909773141
+status: 3
+tags: []
+user_id: computer

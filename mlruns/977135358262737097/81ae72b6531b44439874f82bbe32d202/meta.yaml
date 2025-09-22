@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/286-9/mlruns/977135358262737097/81ae72b6531b44439874f82bbe32d202/artifacts
+end_time: 1757910097130
+entry_point_name: ''
+experiment_id: '977135358262737097'
+lifecycle_stage: active
+run_id: 81ae72b6531b44439874f82bbe32d202
+run_name: painted-kite-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757910097085
+status: 3
+tags: []
+user_id: computer

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/286-9/mlruns/912195655506833668/bf9c2fe7fd2b4ae58e10512eeb85b6ee/artifacts
+end_time: 1757911053013
+entry_point_name: ''
+experiment_id: '912195655506833668'
+lifecycle_stage: active
+run_id: bf9c2fe7fd2b4ae58e10512eeb85b6ee
+run_name: rogue-wasp-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757911052957
+status: 3
+tags: []
+user_id: computer
