@@ -1,0 +1,65 @@
+name: MLOps Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  mlops-pipeline:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip list
+        echo "Installing requirements..."
+        pip install -r requirements.txt
+        echo "Installed packages:"
+        pip list
+
+    - name: Check Directory Structure
+      run: |
+        pwd
+        ls -la
+        ls -la data/
+        ls -la mlops_pipeline/scripts/
+
+    - name: Data Validation
+      run: |
+        echo "Running data validation..."
+        python -u mlops_pipeline/scripts/01_data_validation.py
+      
+    - name: Data Preprocessing
+      id: preprocessing
+      run: |
+        echo "Running data preprocessing..."
+        python -u mlops_pipeline/scripts/02_data_preprocessing.py
+      
+    - name: Train and Evaluate Model
+      run: |
+        echo "Running model training and evaluation..."
+        python -u mlops_pipeline/scripts/03_train_evaluate_register.py ${{ steps.preprocessing.outputs.run_id }}
+      
+    - name: Transition Model
+      run: |
+        echo "Running model transition..."
+        python -u mlops_pipeline/scripts/04_transition_model.py "titanic-survival-predictor" "production"
+
+    - name: Upload MLflow Artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: mlruns
+        path: mlruns/
