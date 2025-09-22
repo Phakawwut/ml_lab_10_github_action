@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/572573844436880706/9b2e85c18873412899739615280675de/artifacts
+end_time: 1757909457012
+entry_point_name: ''
+experiment_id: '572573844436880706'
+lifecycle_stage: active
+run_id: 9b2e85c18873412899739615280675de
+run_name: adaptable-shoat-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909456901
+status: 3
+tags: []
+user_id: computer

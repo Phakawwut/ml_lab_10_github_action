@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/572573844436880706/26dfebfd8ac1406c8b69e969de34b6d9/artifacts
+end_time: 1757909353244
+entry_point_name: ''
+experiment_id: '572573844436880706'
+lifecycle_stage: active
+run_id: 26dfebfd8ac1406c8b69e969de34b6d9
+run_name: crawling-sheep-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909353217
+status: 3
+tags: []
+user_id: computer

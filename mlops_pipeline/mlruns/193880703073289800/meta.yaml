@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/computer/mlops_pipeline/mlruns/193880703073289800
+creation_time: 1757908005489
+experiment_id: '193880703073289800'
+last_update_time: 1757908005489
+lifecycle_stage: active
+name: Wine Quality - Model Training

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/318346053434923811/50a52d1c130b45989aac119752f5c6ef/artifacts
+end_time: 1757909707560
+entry_point_name: ''
+experiment_id: '318346053434923811'
+lifecycle_stage: active
+run_id: 50a52d1c130b45989aac119752f5c6ef
+run_name: titanic_logisticregression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909704361
+status: 3
+tags: []
+user_id: computer

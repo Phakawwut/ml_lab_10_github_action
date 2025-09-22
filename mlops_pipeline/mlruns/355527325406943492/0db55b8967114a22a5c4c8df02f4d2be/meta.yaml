@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/355527325406943492/0db55b8967114a22a5c4c8df02f4d2be/artifacts
+end_time: 1757907818339
+entry_point_name: ''
+experiment_id: '355527325406943492'
+lifecycle_stage: active
+run_id: 0db55b8967114a22a5c4c8df02f4d2be
+run_name: exultant-smelt-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907818279
+status: 3
+tags: []
+user_id: computer

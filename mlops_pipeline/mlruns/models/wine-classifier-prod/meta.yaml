@@ -1,7 +1,7 @@
 aliases: {}
-creation_timestamp: 1757907518599
+creation_timestamp: 1757908008733
 deployment_job_id: null
 deployment_job_state: null
 description: null
-last_updated_timestamp: 1757908647860
+last_updated_timestamp: 1757908558333
 name: wine-classifier-prod

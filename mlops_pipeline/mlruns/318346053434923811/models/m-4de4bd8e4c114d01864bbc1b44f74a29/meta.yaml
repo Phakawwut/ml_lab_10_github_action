@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/computer/mlops_pipeline/mlruns/318346053434923811/models/m-4de4bd8e4c114d01864bbc1b44f74a29/artifacts
+creation_timestamp: 1757909704486
+experiment_id: '318346053434923811'
+last_updated_timestamp: 1757909707553
+model_id: m-4de4bd8e4c114d01864bbc1b44f74a29
+model_type: null
+name: titanic_logisticregression
+source_run_id: 50a52d1c130b45989aac119752f5c6ef
+status: 2
+status_message: null

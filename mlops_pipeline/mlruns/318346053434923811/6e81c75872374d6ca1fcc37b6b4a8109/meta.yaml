@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/318346053434923811/6e81c75872374d6ca1fcc37b6b4a8109/artifacts
+end_time: 1757909710100
+entry_point_name: ''
+experiment_id: '318346053434923811'
+lifecycle_stage: active
+run_id: 6e81c75872374d6ca1fcc37b6b4a8109
+run_name: titanic_randomforest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909707571
+status: 3
+tags: []
+user_id: computer

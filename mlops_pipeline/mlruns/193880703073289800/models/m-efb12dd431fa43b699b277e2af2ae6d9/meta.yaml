@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/computer/mlops_pipeline/mlruns/193880703073289800/models/m-efb12dd431fa43b699b277e2af2ae6d9/artifacts
+creation_timestamp: 1757908005694
+experiment_id: '193880703073289800'
+last_updated_timestamp: 1757908008718
+model_id: m-efb12dd431fa43b699b277e2af2ae6d9
+model_type: null
+name: wine_classifier_pipeline
+source_run_id: 48ee422aa547422b9457aaf3a67a617d
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/572573844436880706/fed35f592bca46619c96b06dd0453793/artifacts
+end_time: 1757909473804
+entry_point_name: ''
+experiment_id: '572573844436880706'
+lifecycle_stage: active
+run_id: fed35f592bca46619c96b06dd0453793
+run_name: languid-hawk-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909473695
+status: 3
+tags: []
+user_id: computer

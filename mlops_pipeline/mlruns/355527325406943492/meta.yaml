@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/computer/mlops_pipeline/mlruns/355527325406943492
+creation_time: 1757907818164
+experiment_id: '355527325406943492'
+last_update_time: 1757907818164
+lifecycle_stage: active
+name: Wine Quality - Data Preprocessing

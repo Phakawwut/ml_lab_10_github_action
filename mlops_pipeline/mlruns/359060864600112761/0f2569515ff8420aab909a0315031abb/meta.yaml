@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/mlops_pipeline/mlruns/359060864600112761/0f2569515ff8420aab909a0315031abb/artifacts
+end_time: 1757907787648
+entry_point_name: ''
+experiment_id: '359060864600112761'
+lifecycle_stage: active
+run_id: 0f2569515ff8420aab909a0315031abb
+run_name: classy-sow-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907787586
+status: 3
+tags: []
+user_id: computer

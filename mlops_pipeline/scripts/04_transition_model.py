@@ -44,5 +44,3 @@ if __name__ == "__main__":
     model_name_arg = sys.argv[1]
     target_alias_arg = sys.argv[2]
     transition_model_alias(model_name_arg, target_alias_arg)
-
-
